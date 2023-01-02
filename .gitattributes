@@ -1,0 +1,10 @@
+javac filter=lfs diff=lfs merge=lfs -text
+jFormatString filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+update.sh filter=lfs diff=lfs merge=lfs -text
+soong filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+checkerframework filter=lfs diff=lfs merge=lfs -text
+error_prone filter=lfs diff=lfs merge=lfs -text
+jimfs filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text

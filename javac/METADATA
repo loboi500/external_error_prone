@@ -1,16 +1,3 @@
-name: "errorprone_javac"
-description:
-    "A repackaged copy of javac for error-prone to depend on"
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/google/error-prone-javac"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://oss.sonatype.org/service/local/repositories/releases/content/com/google/errorprone/javac/9+181-r4173-1/javac-9+181-r4173-1.jar"
-  }
-  version: "9+181-r4173-1"
-  last_upgrade_date { year: 2020 month: 11 day: 3}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:914e9505d2b56013ae68b2d4c4ccd1e3a22f386b9554f943c9e8e97837ca7592
+size 461
